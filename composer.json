@@ -1,0 +1,21 @@
+{
+    "name": "boxunphp/php-instance",
+    "description": "php instance trait",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordy",
+            "email": "arno.zheng@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "All\\Instance\\": "src/"
+        }
+    }
+}
