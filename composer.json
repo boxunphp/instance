@@ -1,5 +1,5 @@
 {
-    "name": "boxunphp/php-instance",
+    "name": "boxunphp/instance",
     "description": "php instance trait",
     "type": "library",
     "license": "MIT",
